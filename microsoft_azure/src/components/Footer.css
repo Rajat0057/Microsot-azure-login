@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(49, 136, 136);
+  width: 100%;
+  height: 12vh;
+  text-align: center;
+}
+
+.footer-text {
+  padding: 2%;
+}
+
+.mind {
+  color: blue;
+}

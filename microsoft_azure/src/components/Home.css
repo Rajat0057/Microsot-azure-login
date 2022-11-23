@@ -1,0 +1,67 @@
+.button-type {
+  background-color: beige;
+  margin: auto;
+  display: block;
+  height: 76vh;
+  position: relative;
+}
+
+.left {
+  text-align: left;
+  margin-left: 10%;
+  font-size: 1.4rem;
+}
+
+.box {
+  border: 2px solid lightgrey;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  height: 30%;
+  position: absolute;
+  top: 10%;
+  left: 35%;
+  text-align: center;
+}
+
+.box button {
+  width: 85%;
+  height: 20%;
+  margin: 1%;
+  background-color: white;
+  cursor: pointer;
+}
+
+.log {
+  margin-top: 5%;
+  position: absolute;
+  font-size: 3rem;
+  margin-left: 32%;
+}
+.email {
+  color: rgb(22, 197, 139);
+  border: 1px solid rgb(22, 197, 139);
+  font-size: medium;
+}
+
+.heading-name {
+  font-weight: bolder;
+  font-size: 2rem;
+  text-align: left;
+  justify-content: left;
+  padding: 10%;
+}
+
+.profile_button {
+  margin-top: 15%;
+  margin-left: 45%;
+  width: 10%;
+  height: 10%;
+  background-color: grey;
+  cursor: pointer;
+  color: white;
+  border: 1px solid rgb(22, 197, 139);
+  font-size: medium;
+  border-radius: 10px;
+  border: none;
+}
